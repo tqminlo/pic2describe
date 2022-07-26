@@ -6,4 +6,4 @@
 - _Method-3: Add CNN-features with the output of GRU-layer like method-1, but training GRU-layer with teaching-no-forced._
 
 ### Download dataset Flickr8k
-_You can down load dataset Flickr8k in here: https://academictorrents.com/details/9dea07ba660a722ae1008c4c8afdd303b6f6e53b_
+   _You can down load dataset Flickr8k in here: https://academictorrents.com/details/9dea07ba660a722ae1008c4c8afdd303b6f6e53b_
