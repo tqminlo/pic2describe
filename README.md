@@ -1,4 +1,4 @@
-# pic2describe
+# Create a brief description for a picture
 ### Methods
 This project provides solutions for briefly describing image content based on several methods. Their common point is to put images through CNN to get features with size (256,), specifically in this project I was trying to use VGG16 and InceptionV3, and use GRU-layer to process descriptions. 3 methods was developed with their main characteristics:
 
