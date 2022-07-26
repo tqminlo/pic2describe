@@ -8,4 +8,4 @@ This project provides solutions for briefly describing image content based on se
 
 ### Download dataset Flickr8k
 You can download dataset Flickr8k in here: 
->https://academictorrents.com/details/9dea07ba660a722ae1008c4c8afdd303b6f6e53b
+>_https://academictorrents.com/details/9dea07ba660a722ae1008c4c8afdd303b6f6e53b_
