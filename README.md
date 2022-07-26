@@ -7,5 +7,5 @@ This project provides solutions for briefly describing image content based on se
 >- _Method-3: Add CNN-features with the output of GRU-layer like method-1, but training GRU-layer with teaching-no-forced._
 
 ### Download dataset Flickr8k
-You can down load dataset Flickr8k in here: 
+You can download dataset Flickr8k in here: 
 >https://academictorrents.com/details/9dea07ba660a722ae1008c4c8afdd303b6f6e53b
